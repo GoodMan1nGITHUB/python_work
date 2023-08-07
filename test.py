@@ -1,1 +1,2 @@
-print("THIS IS A TEST FILE")
+def TEST():
+    print("THIS IS A TEST FILE")
